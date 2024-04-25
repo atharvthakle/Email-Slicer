@@ -1,2 +1,9 @@
-# Email-Slicer
-A simple Python project for slicing and extracting information from email addresses. This project uses Python to parse email addresses and extract relevant information such as username, domain, and top-level domain. Perfect for learning basic string manipulation and regular expressions in Python.
+This Python project helps you parse and extract useful information from email addresses.
+
+• How it Works ?
+
+The Email Slicer takes an email address as input and slices it into three parts :
+
+- Username: The part of the email address before the '@' symbol.
+- Domain: The domain name where the email is hosted.
+- Top-Level Domain (TLD): The last part of the email address (e.g., '.com', '.org', '.edu').
