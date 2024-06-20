@@ -1,4 +1,6 @@
-### This Python project helps you parse and extract useful information from email addresses.
+## E - Mail Slicer
+
+### The smallest Python project I've ever seen. It helps you parse and extract useful information from email addresses.
 
 ## How it Works ?
 
